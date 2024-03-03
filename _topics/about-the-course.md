@@ -13,28 +13,23 @@ This course will cover the following aspects of Game Theory:
 - Some contemporary research
 
 All course materials are available online at
-[vknight.org/gt/](http://vknight.org/gt/). You can also find all the source
+[vknight.org/unam-gt/](http://vknight.org/unam-gt/). You can also find all the source
 files that create that website at
-[github.com/drvinceknight/gt/](https://github.com/drvinceknight/gt/).
+[github.com/drvinceknight/uname-gt/](https://github.com/drvinceknight/unam-gt/).
 
 ## Course content
 
 There are 3 components to the course content, all of which can be found at this
 site.
 
-- The course notes we will use are the open source text book available here:
-  [nashpy.readthedocs.io/en/stable/text-book/index.html](https://nashpy.readthedocs.io/en/stable/text-book/index.html#)
-- Video explainers for every topic. A private link and a YouTube link are
+- The course notes we will use are all open source books available:
+  - [nashpy.readthedocs.io/en/stable/text-book/index.html](https://nashpy.readthedocs.io/en/stable/text-book/index.html#)
+  - [coopgt.readthedocs.io/en/stable/text-book/index.html](https://coopgt.readthedocs.io/en/latest/text-book/index.html)
+  - [https://vknight.org/pfm/](https://vknight.org/pfm/)
+- Video explainers for every topic. A YouTube link is
   available.
 - Content we will generate in class: through our discussions and activities we
   will generate valuable information. I will capture these.
-
-## Virtual board
-
-I will use a virtual board throughout class:
-
-- This will allow you to see the board more clearly on the class recordings.
-- Private access will allow you to write on the board if you want to.
 
 ## In class activities
 
@@ -50,17 +45,12 @@ If you would like some information about the pedagogic approach:
 It is possible that the course notes will change: **for things like typos and
 clarifications**, all of the notes are hosted openly on github and if you're
 interested you can find a list of all changes here:
-[github.com/drvinceknight/gt/commits/main](https://github.com/drvinceknight/gt/commits/main)
+[github.com/drvinceknight/unam-gt/commits/main](https://github.com/drvinceknight/unam-gt/commits/main)
 
 ## Technology in class
 
 Please use whatever resources you need to be successful in this class. Let me
 know if I can help with anything.
-
-## Office hours
-
-I will hold 2-3 hours a week for office hours during which you may come and get
-help. Specific hours will be determined collaboratively as a class.
 
 ## Kindness
 
@@ -92,10 +82,5 @@ Some examples of how this applies to me:
   a future meeting.
 
 ## Assessment
-
-There are two piece of assessment in this course:
-
-- Individual coursework (40%)
-- Group coursework (60%)
 
 More information about assessment: [here]({{ site.baseurl}}/assessment/)
