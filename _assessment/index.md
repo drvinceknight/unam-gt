@@ -5,7 +5,7 @@ tag: assessment
 
 There are 3 pieces of continuous assessment:
 
-- A class test. Date: 2024-03-11
+- A class test. Date: 2024-03-12
 - A class test. Date: 2024-03-28
 - Seminar topic. Date to be determined.
 - 2 Hour exam. (50% of final mark)
