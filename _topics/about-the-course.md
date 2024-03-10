@@ -22,9 +22,11 @@ files that create that website at
 There are 3 components to the course content, all of which can be found at this
 site.
 
-- The course notes we will use are all open source books available:
-  - [nashpy.readthedocs.io/en/stable/text-book/index.html](https://nashpy.readthedocs.io/en/stable/text-book/index.html#)
-  - [coopgt.readthedocs.io/en/stable/text-book/index.html](https://coopgt.readthedocs.io/en/latest/text-book/index.html)
+- The course notes we will use are all open source books available here:
+  - [nashpy.readthedocs.io/en/latest/text-book/index.html](https://nashpy.readthedocs.io/en/stable/text-book/index.html#)
+    [pdf](https://nashpy.readthedocs.io/_/downloads/en/stable/pdf/)
+  - [coopgt.readthedocs.io/en/latest/text-book/index.html](https://coopgt.readthedocs.io/en/latest/text-book/index.html)
+    [pdf](https://coopgt.readthedocs.io/_/downloads/en/stable/pdf/)
   - [https://vknight.org/pfm/](https://vknight.org/pfm/)
 - Video explainers for every topic. A YouTube link is
   available.
